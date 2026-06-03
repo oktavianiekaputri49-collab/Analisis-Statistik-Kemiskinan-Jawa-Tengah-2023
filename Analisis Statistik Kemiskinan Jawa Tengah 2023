@@ -1,0 +1,68 @@
+📊 Analisis Statistik Kemiskinan Jawa Tengah 2023
+Deskripsi Project:
+Project ini membahas analisis statistik data kemiskinan kabupaten/kota di Jawa Tengah tahun 2023 menggunakan data dari Badan Pusat Statistik (BPS). Analisis dilakukan untuk mengetahui jumlah penduduk miskin, persentase kemiskinan, proporsi data, serta variasi tingkat kemiskinan antar daerah di Jawa Tengah.
+
+Tujuan Project:
+Menganalisis kondisi kemiskinan di Jawa Tengah tahun 2023
+Membandingkan tingkat kemiskinan antar kabupaten/kota
+Mengidentifikasi daerah dengan tingkat kemiskinan tinggi dan rendah
+Menghitung rata-rata, proporsi, dan varians data kemiskinan
+Melatih kemampuan analisis data statistik menggunakan Microsoft Excel
+
+Tools yang Digunakana:
+Microsoft Excel
+Statistik Deskriptif
+Data Visualization
+
+Dataset
+Sumber Data:
+Badan Pusat Statistik (BPS) Jawa Tengah 2023
+
+Dataset mencakup:
+Kabupaten/Kota
+Jumlah Penduduk
+Persentase Kemiskinan
+Jumlah Penduduk Miskin
+Proporsi Data
+Varians Data (S²)
+
+Metode Analisis
+Metode yang digunakan:
+Statistik deskriptif
+Perhitungan persentase kemiskinan
+Perhitungan proporsi data
+Perhitungan varians (S²)
+Penyajian grafik data
+Interpretasi hasil analisis
+Tahapan pengolahan data:
+Menginput data ke Microsoft Excel
+Membuat tabel analisis data
+Menghitung statistik data
+Menyusun visualisasi grafik
+Menafsirkan hasil analisis
+
+Hasil Analisis
+Hasil analisis menunjukkan bahwa:
+Kabupaten Brebes memiliki tingkat kemiskinan tertinggi sebesar 15,78%
+Kabupaten Kebumen dan Kabupaten Pemalang juga menunjukkan tingkat kemiskinan yang relatif tinggi
+Kota Salatiga memiliki tingkat kemiskinan terendah sebesar 4,66%
+Kota Semarang dan Kabupaten Jepara termasuk daerah dengan persentase kemiskinan rendah
+Nilai varians data menunjukkan adanya perbedaan tingkat kemiskinan antar wilayah di Jawa Tengah
+Data ini menunjukkan bahwa pemerataan kesejahteraan masyarakat masih menjadi tantangan di beberapa daerah.
+
+Visualisasi Data
+Project ini menyajikan:
+Grafik tingkat kemiskinan kabupaten/kota
+Perbandingan daerah dengan tingkat kemiskinan tertinggi dan terendah
+Tabel statistik kemiskinan Jawa Tengah 2023
+
+Skill yang Dipelajari:
+Data Analysis
+Statistik Deskriptif
+Pengolahan Data Excel
+Data Visualization
+Interpretasi Statistik
+Analisis Data Sosial Ekonomi
+
+Author:
+Oktaviani Eka Putri
